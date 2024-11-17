@@ -1,4 +1,4 @@
-Instagram User Analytics
+# Instagram User Analytics
 📊 Project Overview
 This project aims to analyze user interactions and engagement with the Instagram app, providing valuable insights for product improvement, marketing strategies, and investor presentations. The project involves extracting, processing, and visualizing data to derive actionable insights.
 
