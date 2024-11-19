@@ -29,7 +29,7 @@ Data source: Mention if using a dummy dataset or actual data export (ensuring pr
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/instagram-user-analytics.git  
+git clone https://github.com/dhru07/Instagram_User_Analytics
 Load the SQL scripts into your database.
 Execute the queries to generate insights.
 
@@ -40,4 +40,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 Name: Dhruv Singh
 Email: ds075156@gmail.com
 LinkedIn: https://www.linkedin.com/in/dhruv-singh-9a944a197/
-GitHub : 
+GitHub : https://github.com/dhru07
